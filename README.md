@@ -17,8 +17,8 @@ pip install PyObjC
 ## Voice Commands
 Commands Used in Sarah_Voice_Assistant
 
--What is your name?
--What time is it?
--Search
--Find Location
--Exit
+- What is your name?
+- What time is it?
+- Search
+- Find Location
+- Exit
