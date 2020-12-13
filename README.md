@@ -6,10 +6,8 @@ Python app that uses Speech recognition is the process of converting audio into 
 
 ```
 pip install speechrecognition
-pip install pyttsx3
 pip install pyaudio
 pip install playsound
-pip install PyObjC
 ```
 
 ``` pip install PyAudio ```
